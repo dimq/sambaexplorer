@@ -1,0 +1,1 @@
+SambaExplorer is an Android Intent handler for samba/cifs shares and can browse, download, and sync files from a remote computer directly to the Android device's on-board SD card.
